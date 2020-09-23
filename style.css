@@ -1,0 +1,269 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-color: red;
+    width: 100%;
+    height: 1118px;
+}
+
+li a{
+    color: white;
+    font-weight: 550;
+}
+
+
+.spe{
+    margin-top: 40px;
+    padding-bottom: 0 !important;
+    width: 100%;
+    padding-left: 32px;
+}
+
+.searchdiv{
+    padding-right: 7px !important;
+
+}
+
+ .spe input{
+    width: 100%;
+    box-sizing: border-box;
+    height: 70px;
+    border: 10px; 
+    border-style: solid;
+    border-color:  rgb(194, 0, 0)  !important;
+    
+    
+}
+.searchdiv i{
+    position: absolute;
+    left: 0;
+    padding-left: 70px;
+    padding-top: 15px;
+    color: #aaa;
+   
+   
+}
+
+.pe{
+    padding: 0;
+    padding-right: 15px;
+}
+
+.pebtn{
+    margin: 0;
+    width: 50%;
+    float: left;
+    height: 70px;
+    background-color: rgb(194, 0, 0);
+    border: none;
+    color: white;
+}
+
+.assasinscreed{
+    background-image: url('./assasin.jpg');
+    height: 819px;
+    margin: 0 32px;
+
+}
+
+.assasin-text{
+    position: absolute;
+    top: 50%;
+    left: 12%;
+}
+
+.assasin-text h1{
+    font-weight: 900;
+    font-size: 5em;
+    margin: 0 !important;
+}
+
+.assasin-text p{
+    font-size: 4rem;
+}
+
+.assasin-text button{
+    border: none;
+    background-color: red;
+    color: white;
+    font-weight: 700;
+    height: 65px;
+    width: 235px;
+    border-radius: 5px;
+}
+
+.threegames{
+    padding-left: 46px;
+    width: 99%;
+}
+
+.game{
+    padding: 0 ;
+}
+
+.card{
+    border-radius: 0;
+    border: none;
+    background-color: #F7F7F7;
+}
+
+.card i{
+    color: #868686;
+}
+
+.card .card-img-top{
+    height: 280px;
+    border-radius: 0;
+}
+
+.gamehead{
+    font-weight: 575;
+}
+
+.card-text{
+    color: #868686;
+}
+
+#section2{
+    margin-top: 410px;
+}
+
+.ver-line{
+    border-left: 6px solid red;
+    height: 40px;
+    position: absolute;
+    left: 32px;
+    
+}
+
+.special{
+    float: left;
+    margin-left: 40px;
+}
+
+.special > p{
+    margin-left: 1em;
+    font-size: xx-large;
+}
+
+.special span{
+    color: red;
+}
+
+.gamesc{
+margin: 0 32px;
+}
+
+.game-card1{
+    float: left;
+    border: 2px solid  #868686;
+    /*max-width: 20%;
+    flex: 0 0 19.4%;*/
+    margin: 0;
+    text-align: center;
+    padding: 35px;
+    width: 19% ;
+}
+
+.game-card{
+    float: left;
+    border: 2px solid  #868686;
+    /*max-width: 19%;
+    flex: 0 0 19.7%;*/
+    margin-left: 22px;
+    text-align: center;
+    padding: 35px;
+    width: 19% ;
+   
+}
+
+.gamesc img{
+    height: 320px;
+    width: 250px;
+}
+
+.gamesc p{
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-weight: 550;
+}
+
+.ps4{
+    background-color: #FAFAFA;
+    position: absolute;
+    top: 1613px;
+    margin-top: 616px;
+    width: 96%;
+    text-align: center;
+    margin-left: 32px;
+    margin-right: 32px;
+    z-index: 1;
+
+}
+
+.ps4 img{
+    height: 120px;
+    width: 300px;
+    margin: 2em;
+}
+
+footer{
+    margin-top: 45em;
+    background-color: #d9d9d9;
+    position: absolute;
+    width: 100%;
+}
+
+.fr{
+    margin-top: 10rem;
+}
+
+.fr p{
+    font-size: xx-large;
+}
+
+.fr span{
+    font-weight: 900;
+
+}
+
+.fr-head{
+    font-size: larger;
+    font-weight: 800;
+}
+
+.fr-content{
+    color: #868686;
+
+}
+
+.fr-content .highlight{
+    font-weight: 800;
+    color: black;
+}
+
+.fr-content .em{
+    font-weight: 800;
+    color: red;
+}
+
+.secondrow{
+    padding-left: 6em;
+}
+
+.secondrow a{
+    text-decoration: none;
+}
+
+.secondrow .capital{
+    color: #868686;
+    font-weight: 700;
+    margin-bottom: 1em;
+}
+
+.secondrow .normal{
+    color: #868686;
+    margin-bottom: 1em;
+}
