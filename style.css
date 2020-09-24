@@ -170,16 +170,19 @@ li a{
 
 .gamesc{
 margin: 0 32px;
+flex-wrap: nowrap;
+width: 100%;
 }
 
 .game-card{
     float: left;
     border: 2px solid #868686;
     text-align: center;
-    flex: 0 0 17%;
+    flex: 0 0 15%;
     max-width: 20%;
-    padding-top: 2em;
-    margin: 1em;
+    padding: 1%;
+    margin: 1%;
+    
 }
 
 .gamesc img{
@@ -203,7 +206,7 @@ margin: 0 32px;
     margin-left: 32px;
     margin-right: 32px;
     z-index: 1;
-
+    flex-wrap: nowrap;
 }
 
 .ps4 img{
